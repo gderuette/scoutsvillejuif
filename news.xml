@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rss version="2.0">
+    <channel>
+   
+        <title>Scouts de Villejuif</title>
+        <link>http://scoutsvillejuif.free.fr/</link>
+        <description>Les news du site</description>
+		
+		 <item>
+            <title>mise  à jour</title>
+            <link>http://scoutsvillejuif.free.fr/</link>
+            <guid isPermaLink="false">1ere news</guid>
+            <description>mise a jour faite</description>
+            <pubDate>Sat, 16 Oct 2010 12:45:00 GMT</pubDate>
+        </item>
+       
+        <item>
+            <title>Un site web pour partager ses signets</title>
+            <link>http://scoutsvillejuif.free.fr/</link>
+            <guid isPermaLink="false">1ere news</guid>
+            <description>mise a jour faite</description>
+            <pubDate>Sat, 16 Oct 2010 12:00:00 GMT</pubDate>
+        </item>
+       
+        
+       
+    </channel>
+</rss>

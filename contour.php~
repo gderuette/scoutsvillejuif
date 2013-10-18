@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>SGDF - groupe Jacques Sevin - Villejuif</title>
+
+<meta name="author" content="Gautier et Florian Deruette" />
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" />
+<link rel="stylesheet" media="screen" type="text/css" title="Exemple"
+	href="css/presentation.css" />
+
+<!--[if lt IE 7]>
+    <script src="js/browser-upd-msg.js"></script>
+	<![endif]-->
+
+</head>
+
+<body>
+
+	<SCRIPT type="text/javascript"
+		src="http://www.sgdf.fr/components/com_sgdfnavbar/js/sgdfnavbar.js"></SCRIPT>
+
+	<div id="en_tete"></div>
+
+	<div id="menu">
+
+		<div class="element_menu">
+
+			<div id="cadre">
+				<div class="hautdroit"></div>
+				<div class="hautgauche"></div>
+				<p class="texte"></p>
+				<div class="basdroit"></div>
+				<div class="basgauche"></div>
+			</div>
+
+			<h3>Menu principal</h3>
+			<ul>
+				<li><a href="index.php">Accueil</a></li>
+				<li><a href="notre_mouvement.php">Notre mouvement</a></li>
+				<li><a href="document.php">Documents utiles</a></li>
+				<li><a href="sondage.php">Sondage</a>/<a href="resultatSondage.php">résultat</a>
+				</li>
+			</ul>
+		</div>
+
+		<div class="element_menu">
+			<h3>Groupe</h3>
+			<ul>
+				<li><a href="contact.php">L'encadrement</a></li>
+				<li><a href="locals.php">Comment accéder au local</a></li>
+				<li><a href="pAlbumGroupe.php">Photos</a></li>
+			</ul>
+		</div>
+
+		<div class="element_menu">
+			<h3>Farfadets</h3>
+			<ul>
+				<li><a href="f_cestquoi.php">Farfadet c'est quoi?</a></li>
+				<li><a href="planningpdf/planning_frfdt.pdf">Le planning</a></li>
+				<li><a href="pAlbumFarfadet.php">Photos</a></li>
+			</ul>
+		</div>
+
+		<div class="element_menu">
+			<h3>Louveteaux et Jeannettes</h3>
+			<ul>
+				<li><a href="l_c'est_quoi.php">Louveteaux/jeannettes c'est quoi?</a>
+				</li>
+				<li><a href="planningpdf/planning_lvtx.pdf">Le planning</a></li>
+				<li><a href="pageProtege.php">Photos</a></li>
+			</ul>
+		</div>
+
+		<div class="element_menu">
+			<h3>Scouts et Guides</h3>
+			<ul>
+				<li><a href="s_cestquoi.php">Scouts/Guides c'est quoi?</a></li>
+				<li><a href="planningpdf/planning_scout.pdf">Le planning</a></li>
+				<li><a href="pScout.php">Photos</a></li>
+			</ul>
+		</div>
+
+		<div class="element_menu">
+			<h3>Pionniers et Caravelles</h3>
+			<ul>
+				<li><a href="p_cestquoi.php">Pionniers/Caravelles c'est quoi?</a></li>
+				<li><a href="planningpdf/planning_pio.pdf">Le planning</a></li>
+				<li><a href="pAlbumPio.php">Photos</a></li>
+			</ul>
+		</div>
+
+		<div class="element_menu">
+			<h3>Compagnon</h3>
+			<ul>
+				<li><a href="c_cestquoi.php">Compagnon c'est quoi?</a></li>
+			</ul>
+		</div>
+
+		<div class="element_menu">
+			<h3>Liens</h3>
+			<ul>
+				<li><a href="http://www.scoutsetguides.fr/"><img
+						src="images/SGDF.jpg" border="0" /> </a></li>
+				<li><a href="http://www.latoilescoute.net" target="_blank"> <img
+						src="photos/laToileScoute.jpg" border="0" /> </a></li>
+				<li><a href="http://sites.google.com/site/sgdft94/home"><img
+						src="images/valDeMarne.png" border="0" />Site du Val-de-Marne</a>
+				</li>
+				<li><a href="http://sgdf94.free.fr">Site du Val-de-Marne 2</a></li>
+				<li><a href="http://sites.google.com/site/maisonduscoutisme">Site de
+						la maison du scoutisme</a></li>
+				<li><a href="http://www.cathovillejuif.fr">Site de la paroisse</a></li>
+			</ul>
+		</div>
+
+	</div>

@@ -1,0 +1,1 @@
+<p><img src="louveteau_drapeau.jpg" class="imageflottante" alt="louveteau" /></p>

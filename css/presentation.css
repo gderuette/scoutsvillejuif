@@ -1,0 +1,189 @@
+.souligne {
+	text-decoration: underline;
+}
+
+.dateMAJ {
+	text-align: right;
+	color: grey;
+	font-size: x-small;
+}
+
+#en_tete {
+	width: 100%;
+	height: 243px;
+	background-image: url("../images/banniere2.JPG");
+	background-repeat: no-repeat;
+	margin-left: -50px;
+	margin: auto;
+	margin-top: 20px;
+}
+
+body {
+	width: 95%;
+	margin: auto;
+	margin-bottom: 20px;
+	background-image: url("../images/logo2.jpg");
+	background-repeat: repeat-x-y;
+}
+
+#menu {
+	margin-top: 10px;
+	float: left;
+	width: 180px;
+}
+
+.element_menu {
+	border: 1px solid black;
+	background-color: white;
+	margin-bottom: 20px;
+	list-style-type: none;
+	-moz-border-radius: 15px;
+}
+
+.corps ul {
+	padding: 0px;
+}
+
+.corps {
+	-moz-border-radius: 15px;
+	margin-left: 230px;
+	background-color: white;
+	text-align: center;
+}
+
+.formulaire {
+	background-color: white;
+	margin-left: 230px;
+}
+
+.corpsbis {
+	margin-left: 230px;
+}
+
+.corpscentre {
+	margin-left: 230px;
+	text-align: center;
+}
+
+#corps h5 {
+	color: aqua;
+	text-decoration: underline;
+}
+
+.a em {
+	color: grey;
+}
+
+.element_menu ul {
+	list-style-type: none;
+	padding: 0px;
+	padding-left: 5px;
+	font-family: "Comic Sans MS", "Trebuchet MS", Times, "Times New Roman",
+		serif;
+}
+
+#pied_de_page {
+	text-align: center;
+	font-size: small;
+	color: gray;
+}
+
+h3 table {
+	margin-top: 0px;
+	margin-left: 0px;
+	border: none;
+}
+
+h3 th {
+	font-family: Arial, "Arial Black", Times, "Times New Roman", serif;
+}
+
+h3 td {
+	border: none;
+	font-family: "Comic Sans MS", "Trebuchet MS", Times, "Times New Roman",
+		serif;
+	text-align: center;
+	padding: 0px;
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	margin-top: 50px;
+	border: 4px outset rgb(255, 128, 0);
+	border-collapse: collapse;
+}
+
+table caption {
+	color : green;
+	font-size : x-large;
+}
+
+th {
+	color: green;
+	font-size: 1.1em;
+	font-family: Arial, "Arial Black", Times, "Times New Roman", serif;
+}
+
+td {
+	border: 1px solid black;
+	font-family: "Comic Sans MS", "Trebuchet MS", Times, "Times New Roman",
+		serif;
+	text-align: center;
+	padding: 5px;
+}
+
+a {
+	text-decoration: none;
+	color: navy;
+}
+
+a:hover {
+	color: blue;
+}
+
+.image {
+	position: relative;
+	left: 30px;
+}
+
+.l_cest_quoi {
+	color: rgb(241, 96, 7);
+	font-size: large;
+	font-family: arial;
+}
+
+.p_cest_quoi {
+	color: rgb(237, 47, 26);
+	font-size: large;
+	font-family: arial;
+}
+
+.f_cest_quoi {
+	color: rgb(112, 223, 0);
+	font-size: large;
+	font-family: arial
+}
+
+.s_cest_quoi {
+	color: blue;
+	font-size: large;
+	font-family: arial
+}
+
+.c_cest_quoi {
+	color: green;
+	font-size: large;
+	font-family: arial
+}
+
+h1 {
+	text-align: center;
+	color: red;
+}
+
+p {
+	font-family: Times New Roman;
+	text-indent: 20px;
+}

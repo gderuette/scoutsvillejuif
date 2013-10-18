@@ -1,0 +1,2 @@
+   mysql_connect("sql.free.fr", "scoutsvillejuif","scouts94")  or die(mysql_error());
+   mysql_select_db("scoutsvillejuif")  or die(mysql_error());
